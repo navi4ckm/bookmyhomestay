@@ -1,0 +1,73 @@
+tables:
+1. place
+	Chikmagalur
+	Coorg
+	Sakleshpura
+2. category
+	Home stay
+	Hotels
+	Resorts
+	Service Appts
+	Camps
+3. users
+4. sessions
+5. bookings
+6. googlemap_cordinates
+7. listings
+	name
+	
+
+9. Tariff
+10. features_category
+	indoor
+	outdoor
+	food
+	travel
+11. features_list
+	indoor
+		gym
+		games
+		TV
+		movie collections
+		hot water 24Hrs
+		hot water restricted timings
+		Dining hall
+	outdoor
+		sports equipments
+		play ground
+		garden
+		parking area 4-wheeler
+		parking area 2-wheeler
+		coffee estate
+		tea estate
+		water falls
+		auditorium
+		functional hall
+		adventures activities
+	food
+		veg
+		non-veg
+		recipes on request
+		welcome drink
+		breakfast
+		lunch
+		dinner
+		snacks
+	travel
+		vehicles for rent
+		pick up and drop
+		forest safari
+		Guide
+		site seeing
+12. Reviews
+13. accommodation_type
+	room
+	cottage
+	villa
+	dormitory
+	tent
+14. wishlist
+
+
+
+	
