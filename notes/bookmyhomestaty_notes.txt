@@ -1,0 +1,4 @@
+1. P-1 add must see section in home page
+2. P-2 include section on home page banner to show total number of homestay, hotels, resorts...
+3. P-2 add "most preferred by section" in listing details page. show the icons such as group, couple, family, team outing
+4. 
