@@ -12,6 +12,31 @@ tables:
 3. users
 4. sessions
 5. bookings
+	id
+	timestamp
+	name
+	phone
+	email
+	listing_selected
+	listing_location
+	check_in
+	check_out
+	adults
+	kids
+	accommodation_type
+	other_info
+6. booking_status
+	id
+	status
+		backlog
+		processing
+		processing_backlog
+		payment_pending
+		payment_awaited
+		unsuccessful
+		successful
+	comments
+	
 6. googlemap_cordinates
 7. listings
 	name
@@ -32,6 +57,9 @@ tables:
 		hot water 24Hrs
 		hot water restricted timings
 		Dining hall
+		Computer
+		Internet
+		Wi-fi
 	outdoor
 		sports equipments
 		play ground
