@@ -1,0 +1,127 @@
+0;Beans & Blossom Estate Stay;9900476880;No website
+1;Sipayi Coorg Cottages;9902052922;http://www.sipayicottages.com
+2;Rashi Comforts;9448108234;No website
+3;The Moorings Homestay;08276-266655;www.themoorings.in
+4;Swiss Touch Estate Stay;0-9481882538;No website
+5;ExoticCoorg Home Stay;08274-244216;www.exoticcoorg.com
+6;The Blue Mountains Estate Stay;9945154144;www.bluemountainsestatestay.com
+7;Gurukrupa Homestay;9886494048;No website
+8;Palm Dale;08272-229712;No website
+9;Kibbeil Holiday Retreat;08274-272046;www.homestaykodagu.com
+10;Cynosure Resorts;9945055536;www.cynosuresuites.com
+11;Coorg Coffee Camp;9483834364;www.coorgcoffeecamp.com
+12;Spice Village Bungalow;08272-221543;No website
+13;Saraswathy Estate Homestay;0-9448582094;No website
+14;Spring Dale Estate;091-9845989898;www.springdalecoorg.com
+15;Devarakadu valley view;9449627227;No website
+16;Coorg River Valley;091-9448108154;www.coorgrivervalley.in
+17;The Ramble;0821-2474646;www.gitanjalifarm.com
+18;School Estate;08274-258358;www.schoolestate.in
+19;Pristine Vacation Home;08274-246054;www.pristinevacationhome.com
+20;Stewart Valley;08272-228718;No website
+21;Hotel Fort View;08272-225266;No website
+22;Soms%;08274-272333;No website
+23;Jaivik Greens Estate Stay;08276-262425;No website
+24;Siddhi Aloha;9945188588;No website
+25;Cats Den;0-9900777377;No website
+26;Priyadarshini Homestay;08272-229203;No website
+27;Yamini Green Resort;9449504889;No website
+28;Rio Restotel;0827-4279384;www.hummingbirdindia.com
+29;Neela Homestay;08274-252198;No website
+30;Giridarshini Homestay;08274-259033;No website
+31;Pearl Garden;08274-244233;No website
+32;Wood Greens Resort;08272-203533;www.woodgreens.co.in
+33;Passion Fruit Homestay;08272-224247;No website
+34;Kodagu Plaza Hotel;08276-273052;No website
+35;Aarti HomeStay;08272-229130;www.coorgaaartihomestay.com
+36;Misty Palms;08274-312010;www.palmyrah-tenements.com
+37;Chirpy Haven;08272-225493;No website
+38;The Casiita;091-9448648350;www.thecasiita.com
+39;Valley Dew Stay;08272-233042;No website
+40;Cloud Valley;08272-235126;www.cloudvalley.net
+41;Nisarga Homestay;9448875504;No website
+42;Mountain Blue Home stay;08276-274454;No website
+43;Tropical Blooms;9980461418;www.tropicalbloomscoorg.com
+44;Sand Banks;08274-252130;www.sand-banks.com
+45;Kalpa Vriksha;091-9448976793;No website
+46;Jagale Homestay;08274-272499;www.jagalehomestay.com
+47;Irpu Resort;9448475222;No website
+48;Coorg Guest House;9901205450;www.coorgguesthouse.com
+49;Eshwari Cottage;08272-221015;No website
+50;Green Hills Estate;08274-254790;www.neemranahotels.com
+51;Amulya;08272-228509;No website
+52;Vindhyas Homestay;08272-239145;www.vindhyashomestay.com
+53;Silent Valley Cottages;08272-221543;www.hotelcrystalcourt.com
+54;Maday Holiday's;08272-236545;www.madayholidays.in
+55;Jungle Side - Coorg Holiday Home;091-9480788789;www.jungleside.com
+56;Holiday Villa;0-9448448763;www.karnatakatourism.org
+57;Coorg Wood Side;08272-241683;No website
+58;Dhyan's Den;08272-229837;www.coorgtourism.com
+59;Aahan Hills Cottage;08272-229472;No website
+60;Mercara Inn;08272-223607;No website
+61;Chinmayee Home Stay;08272-224201;www.chinmayeehomestay.com
+62;Kabbe Holidays;08272-200658;www.kabbeholidays.com
+63;Coorg Glade;8105359847;www.coorgglade.com
+64;Ramcad Estate;08274-201228;ramcadestatecoorg.com
+65;Coorg O-Farm;9481481811;www.coorgofarm.com
+66;Bel Home;091-8762061135;www.belhome.co.in
+67;Golf View Cottage;091-9945303174;www.golfviewcottages.com
+68;Kaveri Estate Stay;08272-237270;www.kaveryestatestay.com
+69;Eco Habitat;08276-279283;www.somsinn.com
+70;Linger;9845180207;www.linger-at-coorg.in
+71;Maracad Estate;08272-200469;www.maracadhomestay.com
+72;Baby Estate;08276-266820;No website
+73;Alpinia;9844576429;No website
+74;Coorg Classic Homestay;9008222034;www.coorgclassichomestay.com
+75;Danush Homestay;08272-228394;No website
+76;Dubare-Inn Resorts;091-9481832225;www.dubareinn.in
+77;Valley View;9448494123;www.valleyviewresort.in
+78;River Side Resort;08276-204842;www.coorgriversidecottages.com
+79;Ganesh Estate Stay;08272-225875;www.ganeshestatehomestay.com
+80;Ashraya Homestay;08272-241547;No website
+81;BB Estate Homestay;08272-200178;www.bbestatehomestay.com
+82;Victorian Verandaz;9448059850;www.livingcoorg.com
+83;Coffee Flower Resort;8762346830;www.coorgresortstay.com
+84;The Nest;9448871240;www.coorgneststay.in
+85;4 Seasons;091-9845959838;www.4seasonscoorg.com
+86;Prakruth Resort;08276-279979;www.prakruth.com
+87;Alath-Cad Estate Bungalow;08274-252190;www.alathcadcoorg.com
+88;Mayura Kaveri Yatri Niwas Hotel;08272-243143;www.karnatakatourism.org
+89;Gowri Nivas;08272-228597;www.gowrinivas.com
+90;Hill Valley Coorg;091-9686401945;www.hillvalleycoorg.in
+91;Coorg Shell;08272-220345;www.coorgshell.com
+92;Tamara Coorg;08274-244331;www.tamaracoorg.com
+93;Balaji villa;091-9611113977;www.balajivilla.com
+94;P.N. Heritage;091-9448482171;www.pnheritage.com
+95;Pompei Valley;08272-222909;www.pompeivalley.in
+96;Green Cove;091-9739739474;No website
+97;Jade Hills;080-25262304;No website
+98;Natura Vista - A Plantation Stay;9449915551;www.naturavistacoorg.com
+99;Hill Side Homestay;08274-346241;No website
+0;Hillyside Estate;091-9880031470;www.hillyside.com
+1;King's Cottage;08272-238464;No website
+2;Chitra Hotel;08272-225372;www.hotelchitra.net
+3;Porcupine Castle;091-9008466808;www.porcupinecastle.com
+4;Balkis;08272-229051;No website
+5;Kanika International;08276-274728;No website
+6;Silver Oak Stay Homes;091-9448763073;www.thesilveroaks.com
+7;Kadkani River Resort;080-41158187;www.kadkani.com
+8;The Jade;091-9448605999;www.thejadecoorg.com
+9;Honey Pot Homes;9448106100;www.honeypothomes.com
+10;Rajdarshan Hotel;08272-229142;www.hotelrajdarshan.net
+11;Veerabhoomi Resorts;08276-278113;www.veerabhoomi.com
+12;Serene Homestay;091-9980145369;www.serenehomecoorg.com
+13;Bethel Home Stay;091-9945742405;www.bethelestate.com
+14;Bird of Paradise;08276-278980;www.birdofparadise.in
+15;Alpen Glow;9448048875;No website
+16;Misty Woods;08272-238874;www.coorgmisty.com
+17;Stay Simple - Raj Gardenia;9686221155;www.staysimple.in
+18;Coorg Halli Mane;091-9449078126;www.coorghallimane.com
+19;Windflower Spa & Resort;08276-262900;www.siddhartagroup.com
+20;Hill Town Hotel;08272-223801;www.hilltownhotel.com
+21;Cauvery Hotel;08272-225492;www.hotelcaveri.com
+22;Coorg International;08272-228071;www.coorginternational.com
+23;Heritage Resort;08272-265794;www.heritageresortcoorg.com
+24;Coorg Parumpara;08276-278001;www.paramparacoorg.com
+25;Orange County Resort;08274-258481;www.orangecounty.in
+26;Evergreen County;9742368143;www.evergreencounty.com

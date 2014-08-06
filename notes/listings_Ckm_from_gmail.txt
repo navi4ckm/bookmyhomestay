@@ -1,0 +1,89 @@
+0;Forest Home stay;7259803143;www.foresthomestay.com
+1;Ranga Taana;8105080222;www.rangataana.com
+2;Nature Light;0948-2247966;www.naturelighthomestay.com
+3;The Coffee Bean;091-9900113366;www.coffeebeanhomestay.com
+4;Navilubetta Homestay;08263-239007;www.homestaynavilubetta.com
+5;Nestinggrounds Homestay;08263-220837;No website
+6;Mount Homestay;9480487813;www.mounthomestay.com
+7;The Crosshill Homestay;9480115866;www.crosshill.in
+8;Captains Bungalow;9740032086;www.thecaptainsbungalow.com
+9;Karthik Estate Homestay;9945366266;www.karthikestatehomestay.com
+10;Shivekaa Homestay;9980164484;www.shivekahomestay.com
+11;Coffee Valley Homestay;08262-260126;www.coffeevalleychikmagalur.com
+12;Oakridge Homestay;9886638852;www.oakridgehomestay.com
+13;Vibez Farm House;9449609800;www.vibezclub.com
+19;Bale County;091-9448490570;www.balecounty.com
+20;Hotel Karavali;9481073858;No website
+21;Hill Crest Homestay;08262-247477;www.hillcresthomestay.com
+22;Koffeewoods Homestay;091-9449759023;www.koffeewoods.com
+23;Usha Lodge;08262-235704;No website
+24;Mugila Mane;9482495548;www.mugilamane.in
+25;Hotel Samrat;08262-235706;No website
+26;Green Island Stay;08262-220585;www.greenislandstay.com
+27;Sri Durgamba Lodge;9448940001;www.horanadu.in
+28;Nadvinmadkal Cottages;091-9448210813;www.naduvinamadkal.com
+29;Wismaya Homestay Retreat;9480831071;www.wismaya.in
+30;Mount Palace Hotel;08262-237050;No website
+31;Nammane Home Stay;9880124975;www.nammane.com
+32;Soudhamini Homestay;091-9980272008;www.soudhaminihomestay.com
+33;Sri Devi Comforts;9449701861;No website
+34;Tiger Ranch;091-9880608801;www.tigerranch.in
+35;Beanstalk Bagmane;9448171925;No website
+36;Kounteya Hotel;08262-235882;No website
+37;Girisiri Homestay;9480039090;www.girisiri.com
+38;Thangaali Home Stay;9448657572;www.thangaali.com
+39;Arabidacool Bungalow;091-9538906911;www.plantationtrails.net
+40;Lotus Pond Homestay;9972061576;No website
+41;Sri Annapoorneshwari Lodge;9448744341;www.annapoorneshwarilodge.com
+42;Kerehaklu - Eco Retreat;091-9448050127;www.kerehakluresorts.com
+43;DM Villa Guest House;091-7760608584;www.dmvilla.com
+44;Thanmaya Homestay;08262-247454;www.thanmayahomestay.com
+45;Soundarya Deluxe;08262-235257;No website
+46;Kemmanagundi Homestay;7829026617;www.kemmangundihomestays.com
+47;Sri Venkatesha Residency;091-9845268220;No website
+48;Mountainview homestay;08263-216660;No website
+49;Brindavan Homestay;08262-248360;www.brindavanhomestay.com
+50;Scenic Acres;08262-222817;www.scenicacreshomestay.com
+51;Giri Lodge;08262-235355;No website
+52;Gonakal Homestay;091-8277177770;www.gonakalhomestay.com
+53;Bhadra River Camp;091-9341228143;No website
+54;Joes Home Stay;9164676308;www.joeshomestay.blogspot.com
+55;Ammadi Homestay;08265-221123;www.ammadi.com
+56;Balur Homestay;9845801416;No website
+57;Mekanagadde Homestay;091-9945104606;www.mekanagadde.com
+58;Castle Rock Homestay;9448971902;www.castlerockhomestay.com
+59;Thotadhahalli Homestay;08262-320655;www.thotadhahallihomestay.com
+60;Hunkal Woods;091-9845013936;www.hunkalwoods.com
+61;Coffee County Stays;9844278055;No website
+62;Green Wood Resort;9481589272;No website
+63;Benaka Residency;08262-326964;www.benakaresidency.com
+64;Chikmagalur Club;08262-234010;No website
+65;Doopadcool Homestay;9845352332;No website
+66;Suprabha Residency;08263-274155;www.suprabharesidency.com
+67;Coffee Land Homestay;080-65584013;No website
+68;Soundarya Residency;08262-235257;No website
+69;Vasanth Vihar Hotel;08262-235585;No website
+70;Flameback Lodges;08263-215170;www.flameback.in
+71;River Woods;091-9886299889;www.riverwoods.in
+72;Eco Homes;091-9845801416;www.ecohome.in
+73;The Hidden Valley;091-9886692750;www.thehiddenvalley.com
+74;Coffee Village Retreat;08262-229599;www.coffeevillageretreat.com
+75;Green Dale;08262-230209;No website
+76;Malnad Paradise Hotel;08262-234531;No website
+77;Red Berry Homestay;9886638852;www.redberryhomestay.com
+78;Winter Greens;08262-220869;www.wintergreens.in
+79;Jhari;080-26784778;www.jhari.in
+80;Devigiri Homestay;08262-329422;www.devigiri.co.in
+81;Giri At Chikmaglur;091-9740998982;www.guhantara.com
+82;Athithi Homestay;08262-231096;http://www.athithi.in/
+83;Jungle Greens Home Stay;091-9448742579;www.junglegreens.webs.com
+84;Tex Woods;0824-4270877;www.texresorts.co.in
+85;Coffee County Homestay;091-9880122916;www.koffeecountyhomestay.com
+86;Wood Way Estate;091-9448245201;www.woodwayhomestay.com
+87;Prakruthi Homestay;091-9449687131;www.prakruthihomestay.in
+88;Ozone Valley;091-9448971207;www.ozonevalley.in
+89;The Serai;08262-224905;www.theserai.in
+90;Eagle Eye Holiday Home;08262-324522;www.eagleeyeholidays.com
+91;Honeyvale Estate;9448115005;www.honeyvale.com
+92;Kalgreen Valley Resort;08265-215956;http://www.kalgreenvalleyresort.com/
+93;The Spectrum;08262-221661;http://www.thespectrum.in/

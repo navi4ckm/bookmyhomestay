@@ -1,0 +1,30 @@
+0;Nyrit Villa;Prasad Estate, Haside Village, Halasulige Post
+1;Devagiri Retreat;Heggadde Village and Post, Sakleshpur Taluk, Hassan
+2;The Hills;Kumthalli Village, Hanbal Hobli, , Sakleshpur Taluk
+3;Mugilu;Bugadahalli Village, Kyanahalli Post, Sakleshpur
+4;Rotti-kallu;Bilisare village, Sakleshpur Taluk
+5;Ibbani Nature Hut;Bilisere Village, Devaldakere Post, Hanbal,Sakleshpur
+6;The Rappa;Arali Marada Koppalu, Sidhpura,Hallur Taluk, Hassan District
+7;Coffee Valley;Devalundkere Village, Near Hunbal, Sakleshpur Taluk
+8;Swastha Homestay;Byakaravalli Estate, Sakleshpur Taluk, Hassan
+9;Wild Wagtail Adventure;
+10;Tusk and Dawn;
+11;Makkithitta HomeStay;Donahalli Village, Hanbal P.O Sakleshpur Taluk, Hassan
+12;JenuKallu Valley Retreat;
+13;Eka Resort;Hallibyle Village, Hethur Post, Sakleshpur Taluq,
+14;Agalatti River Retreat;
+15;Kadumakki Resorts;Agani, Hanbal post, Sakleshpur
+16;Jenkal Homestay;Jenkal-Hodachahalli, Sakleshpur, Hassan
+17;Misty Hills Homestay;No 62/3, Thonthalapura, Yeslur Post, Sakaleshpura Taluk,
+18;Prakritik Estate;P.O. Donigal , Via Sakleshpur
+19;Green Village Homestay;Hanbal, Avaerkadu, Sakleshpur
+20;Sentinel Agani;Agani Village, Hanbal, Sakleshpur
+21;White River Retreat Valley;
+22;Huthouse Homestay;Nudarahalli, Kyanhalli post, KalaginamanchahallI
+23;Planters Court;Post Box No.7, Sakleshpur
+24;Malenadu Rain Country;Kambara Halli Estate, Sakleshpur, Hassan Dist.
+25;Sri Balaji Lodge;No address
+26;Megha Homestay;No address
+27;Radcliffe Bungalow;No address
+28;Bhadri Hotel;Azad Road, Sakleshpur, Hassan Dist.
+29;Sri Lakshmidas Lodge;No address

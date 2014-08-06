@@ -1,0 +1,316 @@
+0;Club Mahindra Madikeri;Galibeedu Road, Kalakeri Nidugane Village, Madikeri
+1;Evergreen County;Evergreen Estate, Nangala Village, Bittangala Post,Virajpet,
+2;Orange County Resort;Karadigodu Post, Siddapur, Coorg
+3;Coorg Parumpara;Kushalnagar, Kudige, Kodagu Dist.
+4;Heritage Resort;50/3, 1st Monnangeri Village, Galibeedu, Madikeri
+5;Coorg International;Covent Road, Madikeri
+6;Cauvery Hotel;School Road, Coorg, Kodagu Dist.
+7;Hill Town Hotel;Daswal Road, Behind J D Hospital, Coorg, Kodagu Dist.
+8;Windflower Spa & Resort;SY No - 201/P1, Ketekal Village, Sunticoppa, Madikeri, Coorg
+9;Coorg Halli Mane;Koodlur - Kushalnagar, Swomwarpet, Coorg
+10;Stay Simple - Raj Gardenia;Near Kaveri Nisargadhama, Madapatana, Kushalnagar, Kodagu
+11;Misty Woods;Kakkabe, Virajpet, Kodagu
+12;Alpen Glow;Chirantana, Convent Junction, Madikeri
+13;Bird of Paradise;13, Kudumangalore, Kudige Post, Kushalnagar, North Kodagu, Coorg
+14;Bethel Home Stay;Bethel Estates, Bhiruga Village, Srimangala
+15;Serene Homestay;P O Box 153, Poojakal, Kutta Post, South Coorg
+16;Mayura Valley View;Raja's Seat, Mercara (Madikeri), Kodagu
+17;Honey Valley Estate;Yavakapady Post, Coorg
+18;Veerabhoomi Resorts;Kudige Road, Kushalanagar, Coorg
+19;Rajdarshan Hotel;8/13, M.G.Road, Coorg, Kodagu Dist.
+20;Honey Pot Homes;C/O Sandal cad Estate, P.O 50, Madikeri
+21;Amanvana - luxury Boutique spa resort;Post Box No. 21, Guddehosur, Kushalnagar
+22;The Jade;Manchalli, Kutta, SouthKodagu
+23;Kadkani River Resort;Ammathi, Vontiangadi, South Coorg
+24;Silver Oak Stay Homes;Kunda P.O, Ponnapet, Via Gonikoppal, South Kodagu
+25;Kanika International;4-12(3), I B Road, Kushal Nagar, Coorg
+26;Balkis;Villa Firdouse, New Extension, Madikeri
+27;Porcupine Castle;Hanchikad, Pollibetta, Coorg
+28;Chitra Hotel;School Road, Madikeri, Kodagu Dist
+29;King's Cottage;Palace Estate, Kakkabe Post, Siddapur, Coorg
+30;Club Mahindra Madikeri;Galibeedu Road, Kalakeri Nidugane Village, Madikeri
+31;No title;Near Ganesh Estate, Madikeri, Coorg
+32;No title;Kurchi Village & Post, kodagu
+33;No title;Hoskeri Village, Arekad Post,
+34;No title;PB No 26, Madikeri
+35;No title;Mahalakshmi Bhavan, Near GowdaSamaj, Block-23, Madikeri
+36;No title;Katakeri Village, Made Post, Madikeri
+37;No title;Magatagiri Bus Shelter, Nagarhole- Kanoor Road, , Mathoor Village,Ponnampet, Via Gonikoppa,
+38;No title;Sunnadakere Road, Guddehosur, Kushalnagar, Coorg
+39;No title;Kushalnagar, Kodagu
+40;No title;C/o M.A Cariappa, Polaycad Bungalow, Ammathi, Coorg
+41;No title;Kushalnagar, Herur
+42;No title;Murnad Road, Madikeri
+43;No title;7th Hoskote, Suntokoppa
+44;No title;Nellore Estate, Kutta, South Coorg
+45;No title;General Thimaiah Road, Behind Rotary Club, Madikeri
+46;No title;Vanasiri Estate, Boikeri Post, Madikeri, Kodagu Dist.
+47;No title;Kakkabe Post
+48;No title;West Nemmale Village, Srimangala, South Coorg
+49;No title;Bangalore-Mysore Highway, Sunticoppa, Kushalnagar, Dist:Kodagu,Coorg
+50;No title;Lakshmi Estate, Pollibetta Road, Sidapur Post
+51;No title;Near ITI FMC College Road, Madikeri, Kodagu Dist.
+52;No title;Tata Coffee Ltd, Polibetta
+53;No title;Kolakeri, Napoklu, Kodagu
+54;No title;Nani Estate, Horoor P.O, Sunticoppa, Coorg
+55;No title;Durga Devi Estate, Madapur, North Kodagu, Coorg
+56;No title;Bajekolly Estate, PO Box No. 142, Kutta, Coorg
+57;No title;Gouri Land, Abyathmangala Village, Siddapur
+58;No title;Gonikoppal, Ganapathy Road, Kodagu
+59;No title;Kadagadal Village, Madikeri-Siddapur Road, Madikeri, Coorg
+60;Hillyside Estate;Hardoor Post, Via Sontikoppa, Coorg
+61;Hill Side Homestay;Kurchid Post, South Coorg, Srimangala, Irupu, Kodagu Dist.
+62;Natura Vista - A Plantation Stay;Horoor, Sunticoppa,
+63;Coorg Dale Home Stay;Valnoor Post, Via Kushalnagar, Coorg District
+64;Jade Hills;Kaloor, Galibeedu Road, Madikeri
+65;Green Cove;Block No.11B, New Extension, Madikeri, Kodagu Dist.
+66;Pompei Valley;Thalatha Mane (Post), Talacauvery Road, Via Madikeri, Coorg
+67;P.N. Heritage;Gundicoppa Estate, Belur Village & Post, Somwarpet
+68;Chingaara Estate Guest House;Yavakapady Village Post, Kabbinakkad, Madikeri Taluk, Coorg District
+69;Balaji villa;7th Hoskote, Tondoor Road, Suntikoppa
+70;Tamara Coorg;
+71;Coorg Shell;Block No . 11, Near Cauvery Hall, RaceCourse Road
+72;Roshanara View Holiday Home;No-58, Old Siddhapura Rod, Near Devi Gas Agencies, Madikeri
+73;Hill Valley Coorg;Mangala Devi Nagar, Madikeri, Coorg
+74;Gowri Nivas;PO Box No:138, New Extn., Coorg, Kodagu Dist.
+75;Mayura Kaveri Yatri Niwas Hotel;Bhagamandala, Madekeri
+76;Alath-Cad Estate Bungalow;Ammathi, PBox. No. 7, South Coorg
+77;Prakruth Resort;Herur, Kushalnagar, Sunti Koppa Hobli, Somvarpet Taluk,
+78;4 Seasons;1st Block,Near KSRTC Bus Stand, Indra Extn., Kushalnagar, Kodagu
+79;The Nest;Near Coorg Wildlife Society, D.F.O.Bungalow Road, Chain Gate, Madikeri, Kodagu Dist.
+80;Tranquil Lake;Churikad, Kutta, South Coorg
+81;Coffee Flower Resort;Kodagarally, 7th Hoskote, Kushalnagar to Madkeri Road,
+82;Victorian Verandaz;Modur Estate, Kadagadal Post, Via Madikeri, Coorg
+83;Rain Forest Retreat;Mojo Plantation, Kallor Galibeedu Village, Madikeri
+84;Coorg Naladi Holidays;Naladi Village, Kakkabe, Coorg
+85;Jungle Mount Adventure;Yavakapadi Village & Post, Coorg
+86;BB Estate Homestay;Kadagadal, Madikeri, Kodagu Dist.
+87;Ashraya Homestay;Pottery Road, Near Pathrika Bhavan, Madikeri
+88;Ganesh Estate Stay;Murnad Road, Madikeri
+89;Bee Hive;SHREE GANESH, Ammathi, South Coorg, Kodagu Dist.
+90;River Side Resort;55, Sunticoppa, Kodagu Dist.
+91;Valley View;Block No.16, Near Tourist Lodge, Mangalore Road, Chickpet, Madikeri, Kodagu Dist.
+92;Dubare-Inn Resorts;Nanjarayapatna Post, Kushalnagar
+93;Danush Homestay;Near Police Training School, College Road,Madikeri, Coorg
+94;Coorg Classic Homestay;10/1 College Road, Ranipet Junction, Madikeri
+95;Alpinia;Katlekad Village, 14 KMs from Madikeri, Madikeri
+96;Baby Estate;P.O. Box.15, K. Chettalli, Coorg
+97;Maracad Estate;Hachinadu Village & Post, Ammathi Vontiangadi, South Coorg
+98;Linger;Padakal Village, Chettimani, Madikeri-Bhagamandala Road
+99;Chilligeri Estate;PBox No. 167 Chilligeri Estate, Manchalli Village, Kutta- South Kodagu
+100;Eco Habitat;Sri Balaji Farm, Chikbettagere Village, Guddehosur Post, Kushalnagar
+101;Kaveri Estate Stay;Kolakeri, Napoklu, Coorg
+102;Golf View Cottage;Vidya Nagar, Opposite to Golf Ground, Near Mahindra Holidays, Coorg
+103;Prashanth Homestay;Near Excel Tyres(Near KSRTC Depot), Mysore Road,Mangaladevinagara, Madikeri
+104;Bel Home;Bellarimotte Estate, Madapura Post, North Coorg
+105;Coorg O-Farm;
+106;Ramcad Estate;Sri Mangala, Near Irpu temple, Kodagu
+107;Coorg Glade;Chelavara Village, Cheyandane, , South Coorg
+108;Coffee County;Srimangala, South Coorg,
+109;Kabbe Holidays;Chelavara Village, Cheyandane Post, South Coorg,
+110;Chinmayee Home Stay;Virajpet Road, Madikeri
+111;Mercara Inn;Jr.College Road, Madikeri, Kodagu Dist.
+112;Aahan Hills Cottage;Sapthagiri Estate, Kootuhole, Galibeedu Road, Madikeri, Kodagu Dist.
+113;Coffee Country;Palace Road, Kakkabe, Via Napoklu, Madikeri,
+114;Dhyan's Den;Subramania Estate, Madikeri
+115;Coorg Wood Side;Kattemadu Village & Post, Madikeri
+116;Holiday Villa;Bane Bale Estate, Gonnikoppal Post, Arvathoklu, Coorg
+117;Jungle Side - Coorg Holiday Home;Village & Post Theralu, Via Birunani, South Coorg,
+118;Maday Holiday's;Made village, Madikeri
+119;Kadamakolli;Parakatageri (Pookala) Village & Post, Kodagu Dist
+120;Kodagu Plaza Hotel;Corporation Bank Buliding, Madhikeri Road, Kushal Nagar, Coorg
+121;Silent Valley Cottages;Near Cichona Estate, Madikeri
+122;Vindhyas Homestay;Kedakal, Sunticoppa, Coorg
+123;Cool Cache;Muthanmudi Village, Murnad Post, Madikeri, Kodagu Dist.
+124;Ajantha Homestay;Cauvery Group Building, Near Town Hall,Main Road, Madikeri
+125;Angel's Nest;M.S Ganesh, Laxmipur Estate, Maldare Post, Siddapur
+126;Java Mane;Suntikoppe, Coorg
+127;Amulya;26, Gowli Street, Madikeri, Kodagu
+128;Joyland Estate;Banangala P.O., Siddapur, Coorg
+129;Green Hills Estate;3, Virajpet, South Coorg, Kodagu Dist.
+130;Eshwari Cottage;Thalthmane,Mangalore Road, Madikeri
+131;Coorg Guest House;Srimangala, South Coorg
+132;Kulmane Homestay;Faith Cinchona Estate, Kutta, South Coorg
+133;Irpu Resort;Kurchyvillage and Post, South Coorg
+134;Jagale Homestay;Jagale Estate, Nittoor Village and Post, Balele, South Coorg
+135;Crystal Cottage;Muthanmudi Village, Murnad Post, Madikeri, Kodagu Dist.
+136;Kalpa Vriksha;Nettigeri Estate, Kumboor Village, Kumboor Post, Via Madapur, Kodagu Dist.
+137;Sand Banks;Polycad Estate, PBox No. 30 Ammathi PO, South Coorg
+138;River Turn Homestay;Nakoor Village, Kanbail Post, Sunticoppa, Kodagu Dist.
+139;Tropical Blooms;Irpu road, Manchally Village Post, Kutta, South Coorg
+140;Mountain Blue Home stay;Kushalnagar, Kodagu
+141;Nisarga Homestay;Shunthikoppa, Coorg
+142;Cloud Valley;Cherambane Post Office, Bengoor Village, Coorg
+143;Valley Dew Stay;Kodava Bane Plantation, Avandi Mukkodlu Village, Hattihole Post, Coorg
+144;The Casiita;Near Nisargadama, Coorg
+145;Chirpy Haven;Sri Ganapathy, Near Sudarshan Guest house, Madikeri
+146;Misty Palms;Ponnampara, Teralu Village, Birunani Post, Virajpet Taluk, South Coorg
+147;Coffee Retreat;Pearl Garden, Kutta PO
+148;Aarti HomeStay;21/21 Block No-14, Old Race Course Road, Madikeri, Kodagu Dist.
+149;Mahalakshmi Residency;
+150;Kodagu Plaza Hotel;Corporation Bank Buliding, Madhikeri Road, Kushal Nagar, Coorg
+151;No title;Kakoor Post, Kumtoor Village, Via-Srimangala, Coorg
+152;No title;Manu Estate, P.B. No. 32 , Kutta Post, South Kodagu
+153;No title;No: 42/3, Block No 11, Race Course Road
+154;No title;Kabinkad Estate, Napoklu Nad, Yavakapadi Village,Madikeri Taluk
+155;No title;#170, Nittur Village & Post, Near Nagarhole National Park, Tithimathi Konnankatte Road, Virajpet Taluk, South Coorg,
+156;No title;P.B.No. 63, Nakoor Kanbyle, Sunticoppa, N. Koddgu
+157;No title;Harima Estate, P.B.No-57, Sunticoppa, North Kodagu
+158;No title;Mayuri, Kakotuparambu P.O, Via Virajpet,S. Kodagu
+159;No title;
+160;No title;Dubare Forest Road, Dodda Bettageri, Kushalnagar
+161;No title;Biligeri Village & Post, Madikeri
+162;No title;Ashish Estate, Valnoor Village & Post, Kushalnagar, Coorg
+163;No title;Pump House, Kannanda Bane
+164;No title;Basaveshwara Extention, Kushalnagar, Coorg
+165;No title;Chudamanaicadu Estate, Cheyandane Post, South Coorg
+166;No title;24, Hosapatna Village, Nanjarayapatna Post, Kushalnagar, Somwarpet Taluk
+167;No title;Mayamudhi Village, Mayamudhi post, Gonikoppal,
+168;No title;College Road, Madikeri
+169;No title;Athur Village & Post, Via-Poliybetta, South Kodagu
+170;No title;Laxmi Estate, Pollibetta Road, Siddapur, Kodagu Dist.
+171;No title;
+172;No title;Thurthi Farms, Made P.O, Madikeri
+173;No title;New Grand Estate, Kutta, South Coorg
+174;No title;P.B.No 148, Kutta, South Coorg, Coorg
+175;No title;
+176;No title;Ontiangadi Road, Ammathi, Kodagu
+177;No title;Near Mens Compound Ground, Junior College Road, Madikeri, Kodagu Dist.
+178;No title;Thaikoppa Estate, Village & Post Horror, Post Box No 4, Suntikoppa,
+179;No title;Green Lands,Devanoor Post, Balale
+180;Passion Fruit Homestay;14B-45, Subramanya Nagara, Near Mithri Police Community Hall, Madikeri, Kodagu
+181;No title;Near BSNL, Race Course Road, Madikeri
+182;No title;Kedakal Post, Via Sunticoppa, Coorg
+183;No title;Block No : 18, Near Sudarshan circle, Jaya nagar, madikeri
+184;No title;Nalkeri, Kothur Post, P.B. No. 4, Via Ponnampet, Coorg
+185;No title;Near KSRTC Bus stand, G T Road, Madikeri, Coorg
+186;No title;Vimala Estate, Kutta
+187;No title;Sapthagiri Estate, Kootuhole , Madikeri
+188;No title;Kedakal Post, Suntikoppa, North Coorg
+189;No title;Next to Cauvery Nisarga Dhama, Kushalnagar,
+190;No title;Maldare Post, Via Siddapur, South Kodagu
+191;No title;Athur Post, Via Pollibetta, Coorg
+192;No title;Jalashiya Extension, Near Sudarshan Guest House, Madikeri
+193;No title;
+194;No title;Brahmin\\\'s Valley, Madikeri
+195;No title;
+196;No title;Central B Estate, Manchally Village & Post, Kutta, South Kodagu,
+197;No title;Siddapur, South Coorg
+198;No title;Near Cauvery Nisarga Dhama, Madapatana, Kushalnagar, Kodagu
+199;No title;Karadigodu, Siddapur, South Kodagu, Kodagu Dist.
+200;No title;Ashervad Kalpavriksha, Nettigeri Estate, Kumboor village & Post, Via Madapura
+201;No title;Gallibid Village & Post, Madikeri Taluk, Dist:Coorg
+202;No title;20, Chinni Estate, Sunticoppa, N. Kodagu, Kodagu Dist.
+203;No title;Near Liwa Clinic, Race Course Road, Near Rajaseat, Madikeri,
+204;No title;Opp. Cavery Hall, Racecource Road, Madikeri, Coorg
+205;No title;State Highway 91, Valnur Village, Somvarpet Taluk,
+206;No title;Kaggodlu Village & Post , Madikeri
+207;No title;Race Course Road, New Extension, Mercara, Kodagu Dist.
+208;No title;Race Course Road, Madikeri
+209;No title;Irupu Road, Kurchi Village P.O, Srimangala, Coorg
+210;Wood Greens Resort;Hattihole Post, Mukkodulu , Madikeri, Kodagu District, Coorg
+211;No title;Horoor Village, Suntikoppa, Coorg
+212;No title;Poomale\' Estate,Ikola Village, Murnad Post, Coorg
+213;No title;Srinivasa Krupa, Opp: M G S Complex, Near Uma Maheshwari Temple, College Road, Gonikoppal,
+214;No title;Mekeri Village, Madikeri
+215;No title;Kadnoor Village, Virajpet, Coorg
+216;No title;Srimangala Estate –B, P.B. No.20, K. Chettallli, Coorg
+217;No title;Bhagavathi Estate, Karugunda Post, Coorg
+218;No title;Nakur Village,Kanbail Post, Suntikoppa,Kodagu Dist
+219;No title;
+220;No title;Deviah Cottage, Lower Pension Lane, Madikeri
+221;No title;B C & Estates, Thithimathi Post, South Kodagu
+222;No title;Krishnaraj Villa, Post Box 76, Madikeri , Coorg
+223;No title;
+224;No title;Near Lower Kodava Samaj, Coorg, Kodagu Dist.
+225;No title;
+226;No title;Near Housing Board, Mysore Road, Madikeri
+227;No title;Near LIC Road, Cauvery Krupa
+228;No title;Sr.College Road, Near Agroshakthi Enterprises,
+229;No title;Seetha Nilaya, Convent Road, Madikeri
+230;No title;Near Chatram Bus Stand, Kodagu Estate, Coorg, Kodagu Dist.
+231;No title;Abyathmangala, Siddapur
+232;No title;Bidrupane House, Kattemadu Village and Post, Maragodu, Madikeri
+233;No title;Chilumey Estate, Banavara Road, Somwarpet
+234;No title;Kadagadal Post, Madikeri Siddapur Road, Madikeri
+235;No title;Thaila Village, Manchalli Post, Kutta, Kalmani
+236;No title;Race Course Road, Near S.P.Bunglow, Madikeri, Kodagu Dist.
+237;No title;Bandade Road, Ammathi, South Coorg, Kodagu Dist.
+238;No title;Somwarpet, Coorg- Madikeri Road
+239;No title;PB No.27, Prem Sai Estate,Srimangala Village, Chettalli, Kodagu
+240;Pearl Garden;PB #60, Kutta, Kodagu
+241;No title;Vanasiri Estare, Boikeri Post, Madikeri, Kodagu Dist.
+242;No title;
+243;No title;Mysore Road, Madikeri, Kodagu
+244;No title;Badragola\'B\' Estate, P.B. No. 4, Thithimathi Post, Gonikoppal, Kodagu
+245;No title;Kaloor Road, Galibeedu, Madikeri
+246;No title;#6/18, Ganapathi Road, Coorg
+247;No title;Kedakal Village & Post, Suntikoppa, Coorg
+248;No title;No: 23/156, Cauvery Ganga, Near DFO Bungalow
+249;No title;Belur Village, Somwarpet Taluk, Coorg
+250;No title;Arecade Village, Siddapur
+251;No title;
+252;No title;Sugandhi Nilaya, Mission Compound, Madikeri
+253;No title;
+254;No title;
+255;No title;
+256;No title;Hoskeri Village, Arecad Post
+257;No title;Near View Point, Stone Hill Road, Madikeri, Kodagu Dist.
+258;No title;Near Madikeri Town
+259;No title;Chikkabettageri, Dubare Road, Kushalnagar, Coorg
+260;No title;F.M.Cariappa College Road, Near Army Canteen, Madikeri, Coorg
+261;No title;Yavakapadi Village and Post, Kakkabe, Coorg
+262;No title;Abyathmangala Post, Via- Siddapur, South Kodagu
+263;No title;97/121, Near Bota Farm, Girgure Village, Bylakuppe Post, Koppa
+264;No title;Madhu - Ani Nivas, New-Extension, Madikeri
+265;No title;Theralu Village & Post, South Kodagu District
+266;No title;
+267;No title;SH-88, Sampaje,
+268;No title;Near Brahmagiri Sports Club, Kaimane, Via Srimangala, Virajpet Taluk, South Kodagu
+269;No title;Cheralasrimangala Village, Chettalli Post,
+270;Coorg Heaven Home Stay;Chamundeshwari Nagar, Near Raja Seat, Madikeri
+271;Silverline Home Stay;No address
+272;Amrutha Homestay;
+273;Coorg Planter's Camp;Kirudale, Madapur, Near Somwarpet, North Coorg
+274;Giridarshini Homestay;Village Chellavara, Post Cheyyandane, Near Chellavara Falls, South Coorg,
+275;Sri Lakshmi Homestay;Near Excel Tyres,G.T Road, Madikeri
+276;Neela Homestay;Pollibetta Road, Ammathi,
+277;Rio Restotel;2nd & 3rd floor, Gowri Complex, Mysore Road, Gonikoppal, South Coorg,
+278;Yamini Green Resort;No address
+279;Priyadarshini Homestay;Near CFO Bungalow, Gowda Samaj Road, Madikeri
+280;Cats Den;Near Downs Golf Club, Madikeri
+281;Siddhi Aloha;Kaggodulu Pysari Post, Madikeri
+282;Jaivik Greens Estate Stay;58, Mathicad Post, Sunticoppa, Kodagu Dist.
+283;Soms%;P.B. No. 45, Balele, Kodagu Dist.
+284;Hotel Fort View;Kohinoor Road, Opp SBI Bank
+285;The Cottage;No address
+286;Stewart Valley;Block No. 14, Stewart Range, Near Vartha Bhavan
+287;Pristine Vacation Home;No address
+288;School Estate;Siddapur, Coorg
+289;Kamavva Estate Stay;No address
+290;The Ramble;Craigmore Estate, P.O. Box-10, Pollobetta Post, South Coorg
+291;Keemale Homestay;Karada Village, Karada Post,
+292;Coorg River Valley;Chandraprasad Estate, Nandimotte, Madapur,
+293;Devarakadu valley view;Opp Bhadrakaleshwari Temple Arch, Kedakal Village, Post Suntikoppa
+294;Spring Dale Estate;Kadanga, Virajpet Napkolu Road, Virajpet
+295;Saraswathy Estate Homestay;Kandana Kolly Village & Post, Suntikoppa. Kodagu dist.
+296;Spice Village Bungalow;Near Coffee Estate, Off Mysore - Madikeri Road, Coorg
+297;Coorg Coffee Camp;No address
+298;Cynosure Resorts;No address
+299;The Three Hills;No address
+300;Kibbeil Holiday Retreat;Devanoor - Belele, Coorg
+301;B.C. Homes;Bc estate, kakkkabe post South
+302;Palm Dale;Post Box 10, Madikeri GPO, Kodagu
+303;The Grand Oak;No address
+304;Gurukrupa Homestay;No address
+305;Hill Track Homestay;No address
+306;Kadavil Homestay;Opp. St. Josephs school, Collage road, Coorg
+307;The Blue Mountains Estate Stay;No address
+308;ExoticCoorg Home Stay;No address
+309;Swiss Touch Estate Stay;Kallukore, 7th Hoskote, Andagove Village, Near Suntikoppa, Kodagu
+310;The Moorings Homestay;No address
+311;Rashi Comforts;Supraba, Daswal Road, Madikeri
+312;Pushpagiri Homestay;Beedalli Village, Kumarally Post, Somwarpet Taluk
+313;Sipayi Coorg Cottages;28, Attur Village, Gudde Hosur to Harangi Road, KushalNagar
+314;Beans & Blossom Estate Stay;No address
+Total number of listing: 315

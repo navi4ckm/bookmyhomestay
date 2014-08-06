@@ -1,0 +1,17 @@
+0;Radcliffe Bungalow;9880668316;www.plantationescapes.com
+1;Megha Homestay;8971464354;www.meghahomestay.in
+2;Planters Court;08173-230279;No website
+3;Sentinel Agani;9945310984;contact@aganiresort.com
+4;Green Village Homestay;9448775956;www.greenvillagehomestay.com
+5;Jenkal Homestay;9448144091;www.jenkal.in
+6;Agalatti River Retreat;9481626663;www.agalatti.com
+7;Eka Resort;08173-266822;www.ekaresorts.com
+8;JenuKallu Valley Retreat;091-9241611610;www.jenukallu.com
+9;Makkithitta HomeStay;9448318277;www.makkithitta.com
+10;Tusk and Dawn;091-9845503354;www.tuskanddawn.com
+11;Ibbani Nature Hut;8453812727;www.ibbaniresorts.com
+12;Rotti-kallu;9986432225;www.rottikallu.com
+13;Mugilu;9845008875;www.mugilu.com
+14;The Hills;080-41158187;www.thehills.in
+15;Devagiri Retreat;08173-246727;www.devagiriretreat.com
+16;Nyrit Villa;9483219999;www.nyritvilla.com

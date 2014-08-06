@@ -1,0 +1,141 @@
+0;The Grand Krishna;Narasingha Roa Road, Basavanahalli
+1;SK Regency;Beside Aashirvada Hospital, Ratnagiri Road, Chikmagalur
+2;The Spectrum;Erealla Survay, No 275, DasaraHalli Grama, Kaimara, Kasaba Hubli Chikmagalur
+3;Nature Craft Homestay;Mallandur Road, Joldal PO, Chikmaglur
+4;The Last Resort;Glendale Farms, Ballavara, Kallathipura P.O, Tarikere Taluk
+5;Kalgreen Valley Resort;Kalsapur Estate, Koppa Taluk, Chikmagalur
+6;Honeyvale Estate;Javali Post, Mudigere Taluka,
+7;The Gateway Hotel;KM Road, Opp Pavitra Vana, Jyothinagar Post
+8;Eagle Eye Holiday Home;Hoscodu Estate, Via– Sangameshwarpet, Kadavanthi Post- Chikmagalur
+9;The Serai;Mugthihalli Post, K M Road, Chikmagalur
+10;Ozone Valley;Denton Khan Estate, Kemmanagundi
+11;Prakruthi Homestay;Guddada Bangale, Herur, Koppa Taluk, Chikmagalur
+12;Planters Court;KM Road, PB 109, Opp KSRTC Depot, Chikmagalur
+13;Wood Way Estate;Jakkanahalli Post, Chikmagalur
+14;Coffee County Homestay;Kalledevarapura, Kaimarapost, Chikmagalur
+15;Rajmahal Hotel;I.G. Road, Chikmagalur
+16;Tex Woods;Next to Muthodi Wildlife Sanctuary, Via Malandar,Chikmaglur
+17;Jungle Greens Home Stay;Nagojannahalli Estate, Mallandur Post, Chickmagalur
+18;Mountain Valley;Allampura, Golf Club Road
+19;Athithi Homestay;Hosamane Road, Chikmagalur Dist.
+20;Thippanahalli Homestay;160,Thippanahalli Estate, Chikmangalur
+21;Giri At Chikmaglur;Mulangiri Road, Chikmagalur
+22;Devigiri Homestay;Hosa Road, Arasinaguppa, Chikmagalur
+23;Jhari;Athigundi Village, Datha Peetha Road, Chikmagalur Taluk
+24;Winter Greens;Opp: OM Poultry Farm, Lakya Cross, Kadur Road, Chikmagalur Dist.
+25;Red Berry Homestay;Mullayanagiri, Chikmagalore Town, Chikmagalur
+26;Malnad Paradise Hotel;I.G. Road, Chikmagalur
+27;Green Dale;Greendale Estate, Pandravalli Post, Chikmagalur Dist.
+28;Coffee Village Retreat;Kimmane Plantation, Billur Post, Mudigere, Chikmagalur
+29;The Hidden Valley;Handi, Machagondanahally, Chikmagalur-Mudigere Road, Chikmagalur
+30;Eco Homes;Karagur Estate, Ahuti
+31;River Woods;Magundi Post, Chikmagalur
+32;Flameback Lodges;Billur Post, Pattadur Village, Mudigere Taluk, Chikkamagalur
+33;Vasanth Vihar Hotel;Ratangiri Road, Chikmagalur
+34;Soundarya Residency;I.G. Road, Chikmagalur
+35;Coffee Land Homestay;Next to Ram Nursery, Kelagur, Chikmagalur
+36;Suprabha Residency;Horanadu Road, Kalasa, Chikmagalur
+37;Doopadcool Homestay;Harjihalli, Via-Jakkanhalli, Chikmagalur
+38;Chikmagalur Club;Hosamane Road, Chikmagalur
+39;Apna sapna Homestay;I.D.Peete Village, Athigundi, Chickmagalur
+40;Benaka Residency;Opp A.B.C Trading co., K.M Road, Chikmagalur
+41;Shanthi Kunnj;Devdhana Village, Honnekoppa, Sangameshwarpet
+42;Green Wood Resort;Attigundi, I D Peeta, chikmagalur
+43;Coffee County Stays;5th Floor ,Mathias Towers , Near Bus stand, IG Road
+44;Kanthi Nivas;Ballavara Village, Kallathipura Post, Lingadhalli Hobli
+45;Good Earth Homestay;, Chikmagalur
+46;Bhagwathi Nature Camp;Range Forest Office, Wildlife Range, Kudremukh Division, Chikmagalur Dist.
+47;Hunkal Woods;Thogarihunkal Group of Estates, Off. KemmangundiRoad, Hospet Village, Chikkamaglur
+48;Thotadhahalli Homestay;Thotadhahalli Estate, Kaimara, Chikmagalur
+49;Guddadamane Homestay;Guddadamane post, Via Aldur,
+50;Castle Rock Homestay;Cauvery Estate, Arainoor P.O. Box 17, Aldur, Chikmagalur
+51;Mekanagadde Homestay;Mekanagadde Post, Mudigere Taluk, Chikmagalur
+52;Balur Homestay;Balur, Bankal Post, Mudigere Taluk
+53;Chandramukuta Home Stay;
+54;Pakshikoota Homestay;Arashinaguppe, Malenahalli Post, Chickmagalur
+55;Ammadi Homestay;Village Ammadi, Koppa,
+56;Joes Home Stay;Ballavara-Hand post, Kallahattigiri post, Tarekere Taluka, Chickmangalur,
+57;Bhadra River Camp;Kadabgere, Chikamagalur
+58;Gonakal Homestay;Thogarihankal Post, Tarikere Road, Chikmagalur
+59;Bynekaadu;Mudigere Taluk, Kalasa, Chikmagalur District
+60;Kemmanagundi Homestay;Sampige Katte, 3 kms Before Nature Nirvana Resort, Chikmagalur District
+61;Giri Lodge;Indira Gandhi Road, Chikmagalur
+62;Soundarya Deluxe;Opposite Ksrtc Bus Stand, K M Road, Chikmagalur
+63;Scenic Acres;Vidyanagar, Jyothinagar Post, Chickmagalur
+64;Brindavan Homestay;Jakkanahalli Post, Chickmagalur
+65;Mountainview homestay;Agala Village, Mount Plantations, Aldur Post, Chikamagalur
+66;Sri Venkatesha Residency;Opp: Nagalakshmi Theater, IG Road,
+67;Thanmaya Homestay;Kalledevarapura, Kaimara, Chikmagalur
+0;Kemmanagundi Homestay;Sampige Katte, 3 kms Before Nature Nirvana Resort, Chikmagalur District
+1;Giri Lodge;Indira Gandhi Road, Chikmagalur
+2;Soundarya Deluxe;Opposite Ksrtc Bus Stand, K M Road, Chikmagalur
+3;Scenic Acres;Vidyanagar, Jyothinagar Post, Chickmagalur
+4;Brindavan Homestay;Jakkanahalli Post, Chickmagalur
+5;Mountainview homestay;Agala Village, Mount Plantations, Aldur Post, Chikamagalur
+6;Sri Venkatesha Residency;Opp: Nagalakshmi Theater, IG Road,
+7;Thanmaya Homestay;Kalledevarapura, Kaimara, Chikmagalur
+8;DM Villa Guest House;
+9;Kerehaklu - Eco Retreat;Kerehaklu Estate, Aldur
+10;Sri Annapoorneshwari Lodge;
+11;Lotus Pond Homestay;Bynecool Estate, Hirekolale Post, Chickmagalur
+12;Arabidacool Bungalow;Mylemoney Estate, Kaimara Post,
+13;Thangaali Home Stay;Gaaligandi village, Near Kalasa
+14;Girisiri Homestay;
+15;Giridarshini Homestay;Venkateshwara Estate, Kollibyle,Hesgal Post, Mudigere,Dist:Chikmangalur
+16;Restin Lodge;I.G. Road, Chikmagalur
+17;Kounteya Hotel;K M Road, Opp KSRTC Depot, Chikmagalur Dist.
+18;Beanstalk Bagmane;Bagmane Estate, Mallandur Post, Chikmagalur
+19;Woodlands Hotel;Indira Gandhi Road, Chikmagalur
+20;Tiger Ranch;Bhagirathi Estate, Kaimara Post, Chikmagalur
+21;Sri Devi Comforts;Main Road, Horanadu, Mudigere Taluk,
+22;Soudhamini Homestay;Hosallipet, Chikmagalur
+23;Padmashree Lodge;Narasinga Rao Road, Near Taluk Office, Chikmagalur,
+24;Nammane Home Stay;Marasanige Estate, Marasanige Village, Near Kalasa, Mudigere Taluk,
+25;Silverwoods Service Apartments;
+26;Bettadamalali Homestay;
+27;Mount Palace Hotel;NMC Circle, I.G. Road, Chikmagalur
+28;Wismaya Homestay Retreat;Kavikalgandi, Baba Budan Giri Hills, Attegundi Post,
+29;Prakash Lodge;Near KSTRC Road, Chikmagalur
+30;Nadvinmadkal Cottages;Hesgal Post, Mudigere, Chikmagalur-Dist
+31;Sri Durgamba Lodge;
+32;Sabyatha;Somuvarpete
+33;Green Island Stay;Lakya Cross, 10th Km Milestone, Kadur Road
+34;Hotel Samrat;I.G. Road, KSRTC Bus Stand
+35;Clover leaf home stay;Lakshmipura, Dasarahalli Village, Kaimara Post
+36;Mugila Mane;
+37;Usha Lodge;K.M.Road,
+38;Koffeewoods Homestay;Kelahalli Estate,Balur Post, Mudigere taluk, Dist:Chikmagalur
+39;Hill Crest Homestay;Kalledevarapura, Kaimara Post,
+40;Hotel Karavali;No address
+41;Nature Abode The Stay Home;No address
+42;Bale County;Chandrakhan Estate, Balehonur, Chickmaglur
+43;Pai Comforts;No address
+44;Belli Moda Homestay;No address
+45;Villa Urvinkhan;Niduvale, Mudigere, Chikmagalur
+46;Hulikatte Estate;Sunkasale Post, Hudigene Taluk, Chikmagalur Dist.
+47;Rustic Homestay;Khadriya Estate, Ukkuda, Aldur Post, Chikmagalur
+48;President’s Palace Hotel;Near Bus Stand, Koppa, Chikmagalur
+49;Hotel Empire;I.G. Road, Near Karnataka Bank
+50;Vibez Farm House;Kumargiri estate
+51;Bluemist Homestay;No address
+52;Oakridge Homestay;No address
+53;Coffee Valley Homestay;No address
+54;Shivekaa Homestay;No address
+55;Chikmagalur Golf Club;No address
+56;Karthik Estate Homestay;No address
+57;TDS Residency Hotel;No address
+58;Captains Bungalow;No address
+59;The Crosshill Homestay;No address
+60;Halli Berri Coffee & Cottages;No address
+61;Mount Homestay;No address
+62;Gubbachi Goodu Homestay;No address
+63;Pai Lodge;No address
+64;Nestinggrounds Homestay;Mudigere Taluk, Gattadahalli Estate, Chikmagalur
+65;Navilubetta Homestay;NH-48, Western Ghats, Chikamagalur
+66;Hotel Olv Palace;No address
+67;The Coffee Bean;Chandrabetta Estate, Malandur Post, Chikmagalur
+68;Bombru kallu;Ballige Village, Sunkasale Post, Mudigere Taluk
+69;Nature Light;Nagojanahalli, Mallandur Post
+70;Ranga Taana;Ranganatha Estate Hosa Thota, Doopadh khan, Thanige Byle Post
+71;Forest Home stay;Maradi, Aldur
+72;Hasiru Homestay;No address
